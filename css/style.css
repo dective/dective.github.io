@@ -1,0 +1,182 @@
+body {
+    background-color: #3b3b3b;
+}
+
+.div1 {
+    margin-top: 3%;
+    float: left;
+    margin-left: 3%;
+    width: 100%;
+}
+
+.div2 {
+    margin-top: 30px;
+}
+
+.div3 {
+    font-size: 100px;
+    margin-left: 3%;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.div5 {
+    background-size: 125%;
+    background-position: center;
+    background-image: url(https://i.pinimg.com/originals/62/f0/a1/62f0a12f732ccfee8b84058539d1bfdf.jpg
+);
+    width: 30%;
+    height: 44vw;
+    margin-top: 3%;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 3%;
+    border-radius: 8%;
+}
+
+.div6 {
+    background-size: 125%;
+    background-position: center;
+    background-image: url(https://i.pinimg.com/originals/fe/5c/55/fe5c55068ef11e9b191f1d1f1f595f0e.jpg
+);
+    width: 30%;
+    height: 44vw;
+    margin-top: 3%;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 3%;
+    border-radius: 8%
+}
+
+.div7 {
+    background-size: 125%;
+    background-position: center;
+    background-image: url(https://www.projectproton.eu/wp-content/uploads/2019/07/mahdi-rezaei-hkmFpLzlsrQ-unsplash_resized.jpg
+);
+    width: 30%;
+    height: 44vw;
+    margin-top: 3%;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 3%;
+    border-radius: 8%
+}
+
+.div8 {
+    font-size: 90px;
+    margin-left: 3%;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.div9 {
+    text-align: center;
+}
+
+
+/* Position the image container (needed to position the left and right arrows) */
+
+.container {
+    position: relative;
+    width: 50%;
+    margin-left: 25%;
+    height: 50%;
+    text-align: center;
+}
+
+
+/* Hide the images by default */
+
+.mySlides {
+    display: none;
+}
+
+
+/* Next & previous buttons */
+
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 80%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+
+/* Position the "next button" to the right */
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+
+/* On hover, add a black background color with a little bit see-through */
+
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+/* Number text (1/3 etc) */
+
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.text1 {
+    text-align: center
+}
+
+.text2 {
+    text-align: center
+}
+
+.text3 {
+    text-align: center;
+    color: white;
+}
+
+.div10 {
+    font-size: 60px;
+    margin-left: 3%;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.vid {
+    text-align: center;
+    width: 100%;
+}
+
+.divimg {
+    text-align: center;
+}
